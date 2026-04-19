@@ -8,15 +8,15 @@
         "pyrogram"
     ],
     "env": {
-        "API_ID":{
+        "API_ID":{37736942}
             "description": "Get your telegram API ID from https://my.telegram.org",
             "value":"28485705"
         },
-        "API_HASH":{
+        "API_HASH":{5792f2137c087c27c1d706a3738c659d}
             "description":"Get your telegram API HASH from https://my.telegram.org",
 		    "value":"26d76803d487d6d0cc818cf191fa7518"
         },
-        "BOT_TOKEN":{
+        "BOT_TOKEN":{8723749364:AAFdLJd6oX48OKw5CHSSE_75Z8N6VaDrvis}
             "description":"Get from BotFather",
             "value":"6582971212:AAG_K_Iec_0nlI83g_Sq0Aq3DXwcv6Zs4lQ"
         },
